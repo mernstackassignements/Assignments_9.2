@@ -44,9 +44,9 @@ boeing.print();
 jaguar.print();
 tejas.print();
 
-boeing.AverageSpeed = 1000;
-jaguar.AverageSpeed = 3000;
-tejas.AverageSpeed = 2000;
+boeing.AverageSpeed = 600;
+jaguar.AverageSpeed = 600;
+tejas.AverageSpeed = 600;
 
 boeing.print();
 jaguar.print();
